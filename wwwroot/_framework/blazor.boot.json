@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "Gandom_Wasm.dll": "sha256-XAazCjajB7gsCS9uKybjJqDqIqoO\/LjCip3tWaWTU9M=",
+      "Gandom_Wasm.dll": "sha256-v\/o4XTm0U3rSxB2SnSPN1XaI5Rn+Vc+CVoaqtqLl0aM=",
       "Microsoft.AspNetCore.Components.dll": "sha256-3RQhzLl2CB24uIDAWHmqffoTE5RCzQSCgQL8C3+NrnQ=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-udNyUy\/sZAZ\/kxTnPv6xOca1oek7ooUvUN5ljQbHKxo=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-sVQ3kEhQeCJWtMv7V9yrCw\/xMnf7IygJmEgwlFhrHbE=",
