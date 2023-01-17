@@ -377,7 +377,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-dH2eSeSkdldyAYFEe4NQsSXJW+oJGth+lpDu3AeSwvE=",
+      "hash": "sha256-Lput+l5MI3KeWZS2nDzGkaUmPM\/xOJ9gLdpFpyC8NLE=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -553,5 +553,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "n+YDgjMB"
+  "version": "QghVEEGz"
 };
